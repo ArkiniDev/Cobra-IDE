@@ -6,5 +6,7 @@ Cobra IDE blends the simplicity of classic editors with the refinement of modern
 
 Because when you run your code, Cobra strikes.
 
+------------------------------------------------------------
+
 © 2025 ArkiniDev — All rights reserved.
 Created and maintained by ArkiniDev.
